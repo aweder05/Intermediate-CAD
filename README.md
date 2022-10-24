@@ -1,19 +1,15 @@
 # Intermediate-CAD
 # BasicCAD
 
-We are creating a caster.
-
----
 ## Table of Contents
-* [Table of Contents](#Table-of-Contents)
-* [Base](#Base)
+* [Beyblade/Spinner] (#Beyblade/Spinner)
 * [Mount](#Mount)
 * [Fork](#Fork)
 * [Tire](#Tire)
 * [Wheel](#Wheel)
 * [AxleCollarBearings](#AxleCollarBearings)
 
-## Base
+### Beyblade/Spinner
 
 ### Description
 

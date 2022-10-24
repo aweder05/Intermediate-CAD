@@ -38,7 +38,7 @@ I learned how to animate an assembly, how to view in a section view
 
 ### Reflection
 
-This was a little trickier, since I had to use new and trickier tools such as sweeps and helix's. Overall, I am glad to now know how to properly use these new tools, and grateful that I succesfully finished the assignments. 1
+This was a little trickier, since I had to use new and trickier tools such as sweeps and helix's. Overall, I am glad to now know how to properly use these new tools, and grateful that I succesfully finished the assignments. 
 
 ---
 

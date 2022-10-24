@@ -1,5 +1,4 @@
 # Intermediate-CAD
-# BasicCAD
 
 ## Table of Contents
 * [Beyblade/Spinner](#Beyblade/Spinner)
@@ -26,11 +25,20 @@ The main goal of this assignment is to create a spinner in a multi-part studio u
 
 ![4 1image](https://user-images.githubusercontent.com/112981462/197610871-fd66cca1-3efc-40c6-8c46-48a599ae140b.png)
 
-
 ### Reflection
 
 This was my first CAD assignment of the year, and I am happy to say that I had little to no problems getting back into it. 
 I learned how to animate an assembly, how to view in a section view
+
+## 4.2 
+
+### Image
+
+![4 2](https://user-images.githubusercontent.com/112981462/197615138-f45ea2bc-5299-4eb3-8310-7e4e4086f51d.png)
+
+### Reflection
+
+This was a little trickier, since I had to use new and trickier tools such as sweeps and helix's. Overall, I am glad to now know how to properly use these new tools, and grateful that I succesfully finished the assignments. 1
 
 ---
 

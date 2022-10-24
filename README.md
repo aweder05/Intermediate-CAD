@@ -2,14 +2,16 @@
 # BasicCAD
 
 ## Table of Contents
-* [Beyblade/Spinner] (#Beyblade/Spinner)
+* [Beyblade/Spinner](#Beyblade/Spinner)
 * [Mount](#Mount)
 * [Fork](#Fork)
 * [Tire](#Tire)
 * [Wheel](#Wheel)
 * [AxleCollarBearings](#AxleCollarBearings)
 
-### Beyblade/Spinner
+---
+
+## Beyblade/Spinner
 
 ### Description
 

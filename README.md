@@ -80,11 +80,21 @@ The last part of this assignment was tricky, as I had to branch to create a new 
 
 ### Description
 
+For this assignment I had to create a part for a swing arm out of stainless steel in Onshape using diagrams provided with dimensions (some of which later had to be configured as they were entered in as variables) and then mess around with the dimensions a little bit to answer questions based on the weight (in grams) of the part respective to the variable configurations configured in a variable table inside of the part studio. 
+
 ### Evidence
+
+[Link to Onshape](https://cvilleschools.onshape.com/documents/011d7ad10f56f3050da908e2/w/f8e68f008c693d71f0bb6042/e/bf20f39572221be74dd95686?configuration=List_Jctk9wLWHuflug%3DDefault&renderMode=0&uiState=635830d01097322405ccc719)
 
 ### Image
 
+![swingarmdimensionsdiagram](https://user-images.githubusercontent.com/112981462/197857128-f5b3967a-a5a8-444d-8f9f-f4568c8adaf8.png)
+
+![spinnerisometric](https://user-images.githubusercontent.com/112981462/197857331-cf81542b-3200-47a2-a3d4-f3feea310533.png)
+
 ### Reflection
+
+It being my first time ever really having to 100% rely on a diagram to create a part from scratch. It was a tricky but fun process, and I learned many things. In this assignment I didn't really learn how to use any completely new tools but I learned more how to use tools which I already knew of in a smarter and more extensive way. Some examples of this would be the dimension tool, which I used to use so much that a sketch would would be completely filled with dimensions. Doing this assignment taught me how to use any of the constraint tools to minimize the amount of dimensions that are needed to be made. 
 
 ---
 

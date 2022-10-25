@@ -35,6 +35,8 @@ I learned how to animate an assembly, how to view in a section view, and countle
 
 ##### 4.1 Reflection
 
+This assignment was most definitely the easiest CAD assignment of the entire Spinner assignment. Only thing that I forgot about a little was merging added extrusions with previously existing parts to add a modification/new feature to a part. Other than that, the instructions were very straightforward and helped me finish my part for this assignent (The ring) in about five minutes. 
+
 ---
 
 ## 4.2 

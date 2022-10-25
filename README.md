@@ -6,8 +6,8 @@
 * [4.2](#4.2)
 * [4.3](#4.3)
 * [4.4/4.5](#4.4/4.5)
-* [Swing Arm](#Swing Arm)
-* [Multi-Part Design Studio](#Multi-Part Design Studio)
+* [Swing Arm](#Swing-Arm)
+* [Multi-Part Design Studio](#Multi-Part-Design-Studio)
 
 ---
 
@@ -78,20 +78,6 @@ This was a little trickier, since I had to use new and trickier tools such as sw
 ### Reflection
 
 ---
-
-
-## Wheel
-
-### Description
-
-### Evidence
-
-### Image
-
-### Reflection
-
----
-
 
 ## Multi-Part Design Studio
 

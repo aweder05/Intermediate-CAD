@@ -47,7 +47,7 @@ This assignment was most definitely the easiest CAD assignment of the entire Spi
 
 ##### 4.2 Reflection
 
-This was a little trickier, since I had to use new and trickier tools such as sweeps and helix's. Overall, I am glad to now know how to properly use these new tools, and grateful that I succesfully finished the assignments. 
+This was a little trickier, since I had to use new and trickier tools such as sweeps and helix's. It was tricky to navigate the part studio and find the right things to connect / extrude etc, and since the whole part was not very angular and more curved and helical, it was a new challenge to create a part with features such as those of a propeller. 
 
 ---
 
@@ -56,6 +56,8 @@ This was a little trickier, since I had to use new and trickier tools such as sw
 
 ##### Image
 
+![4 3](https://user-images.githubusercontent.com/112981462/197800752-a34dbcac-f971-4e07-aa4f-897c263eda34.png)
+
 ##### 4.3 Reflection
 
 ---
@@ -63,6 +65,8 @@ This was a little trickier, since I had to use new and trickier tools such as sw
 ## 4.4/4.5
 
 ##### Image
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/112981462/197803001-7f5f2958-1b07-49fa-b6a8-8ac5715567ee.gif)
 
 ##### 4.4/4.5 Reflection
 

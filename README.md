@@ -29,11 +29,11 @@ I learned how to animate an assembly, how to view in a section view, and countle
 
 ## 4.1
 
-### Image
+##### Image
 
 ![4 1image](https://user-images.githubusercontent.com/112981462/197610871-fd66cca1-3efc-40c6-8c46-48a599ae140b.png)
 
-### 4.1 Reflection
+##### 4.1 Reflection
 
 ---
 

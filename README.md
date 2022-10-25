@@ -2,10 +2,10 @@
 
 ## Table of Contents
 * [Beyblade/Spinner](#Beyblade/Spinner)
-* [  4.1](#4.1)
-* [  4.2](#4.2)
-* [  4.3](#4.3)
-* [  4.4/4.5](#4.4/4.5)
+  - [4.1](#4.1)
+  - [4.2](#4.2)
+  - [4.3](#4.3)
+  - [4.4/4.5](#4.4/4.5)
 * [Swing Arm](#Swing-Arm)
 * [Multi-Part Design Studio](#Multi-Part-Design-Studio)
 

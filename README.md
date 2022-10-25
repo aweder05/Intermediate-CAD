@@ -27,7 +27,7 @@ I learned how to animate an assembly, how to view in a section view, and countle
 
 ---
 
-## 4.1
+###### 4.1
 
 ### Image
 
@@ -37,7 +37,7 @@ I learned how to animate an assembly, how to view in a section view, and countle
 
 ---
 
-## 4.2 
+###### 4.2 
 
 ### Image
 
@@ -50,7 +50,7 @@ This was a little trickier, since I had to use new and trickier tools such as sw
 ---
 
 
-## 4.3
+###### 4.3
 
 ### Image
 
@@ -58,7 +58,7 @@ This was a little trickier, since I had to use new and trickier tools such as sw
 
 ---
 
-## 4.4/4.5
+###### 4.4/4.5
 
 ### Image
 

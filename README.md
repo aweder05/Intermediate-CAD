@@ -102,7 +102,11 @@ It being my first time ever really having to 100% rely on a diagram to create a 
 
 ### Description
 
+The purpose of this assignment was to basically accomplish the same thing as the above assignment, that being to be able to create a part from scratch by only using diagrams with dimensions and whatnot on them. The difference from this assignment to the last is that in this assignment it is not a single part that we're creating, but instead multiple parts, albeit still in a single part studio, a.k.a. a multi-part studio. 
+
 ### Evidence
+
+
 
 ### Image
 

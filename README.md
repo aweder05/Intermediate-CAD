@@ -27,7 +27,7 @@ I learned how to animate an assembly, how to view in a section view, and countle
 
 ---
 
-###### 4.1
+## 4.1
 
 ### Image
 
@@ -37,32 +37,32 @@ I learned how to animate an assembly, how to view in a section view, and countle
 
 ---
 
-###### 4.2 
+## 4.2 
 
-### Image
+##### Image
 
 ![4 2](https://user-images.githubusercontent.com/112981462/197615138-f45ea2bc-5299-4eb3-8310-7e4e4086f51d.png)
 
-### 4.2 Reflection
+##### 4.2 Reflection
 
 This was a little trickier, since I had to use new and trickier tools such as sweeps and helix's. Overall, I am glad to now know how to properly use these new tools, and grateful that I succesfully finished the assignments. 
 
 ---
 
 
-###### 4.3
+## 4.3
 
-### Image
+##### Image
 
-### 4.3 Reflection
+##### 4.3 Reflection
 
 ---
 
-###### 4.4/4.5
+## 4.4/4.5
 
-### Image
+##### Image
 
-### 4.4/4.5 Reflection
+##### 4.4/4.5 Reflection
 
 ---
 

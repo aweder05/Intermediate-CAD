@@ -51,7 +51,6 @@ This was a little trickier, since I had to use new and trickier tools such as sw
 
 ---
 
-
 ## 4.3
 
 ##### Image
@@ -59,6 +58,8 @@ This was a little trickier, since I had to use new and trickier tools such as sw
 ![4 3](https://user-images.githubusercontent.com/112981462/197800752-a34dbcac-f971-4e07-aa4f-897c263eda34.png)
 
 ##### 4.3 Reflection
+
+This part of the assignment was also relatively easy, with the only tricky part coming with sliding mates and revolve mates. From this assignment, I learned how to limit the extent that a sliding mate can go in either direction. I can imagine that that becomes very useful when creating assemblies that use multiple moving parts to create some sort of contraption. 
 
 ---
 
@@ -69,6 +70,8 @@ This was a little trickier, since I had to use new and trickier tools such as sw
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/112981462/197803001-7f5f2958-1b07-49fa-b6a8-8ac5715567ee.gif)
 
 ##### 4.4/4.5 Reflection
+
+The last part of this assignment was tricky, as I had to branch to create a new workspace in order to correctly fasten both the spinner and propellor together. The other tricky part was creating a rack and pinion relation, to then later get to the fun part, which was to animate the assembly in order tol fully visualize the functionality of the spinner and to see what it would look like when it all ended up working. 
 
 ---
 

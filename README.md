@@ -106,10 +106,16 @@ The purpose of this assignment was to basically accomplish the same thing as the
 
 ### Evidence
 
-
+https://cvilleschools.onshape.com/documents/e58ce2a782ee529329f57404/w/6af0f5091020ec7fdfa16fd7/e/23c20797060ea3ca299b58cd?renderMode=0&uiState=635833ae285ef11c0bc0ca68
 
 ### Image
 
+![multipartisometric](https://user-images.githubusercontent.com/112981462/197860591-3f6c3160-44b8-4b6a-80e5-026443ac6e03.png)
+
+![multipartsectionview](https://user-images.githubusercontent.com/112981462/197860613-546708d6-8233-40b8-9399-dc5d74c0804e.png)
+
 ### Reflection
+
+So far this year, this was definitely the most challenging of the CAD assignments. The reason for this is that it a. introduced new methods and tools to create parts, b. asked me to change dimensions without the use of a configuration table, and c. was not as clear as the last asignment in the diagrams. Still, I managed to complete the assignment with the help of some new tools, the most useful of which being the boolean tool, which enabled me to subtract elements of one part from another, to create a perfect fit between both parts. 
 
 ---

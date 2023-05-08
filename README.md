@@ -124,6 +124,10 @@ So far this year, this was definitely the most challenging of the CAD assignment
 
 Certification Link: [link](https://ti-user-certificates.s3.amazonaws.com/6e557ed6-d03d-4c48-9492-4d18d145d7a1/b404585c-9eaa-4f20-b7cd-92749c713cda-anton-weder-e85d9059-040c-468d-81ac-24aebe46a4a6-certificate.pdf)
 
+**Certification Reflection:**
+
+As preparation, I think it was a very good idea to take a few weeks out of the curriculum to work exclusively on CAD and Onshape. The best part about doing this in class is that there was always avaliable help from both teachers and students, and in may cases, me and Sophie worked together on some of the assignments in order to help us both understand. Retrospectively, I wish I would've worked more on Onshape assemblies, and especially limits. Another thing that I would've preferably spent more time on multi-part studio practice. It was by far the most complicated question on the test. As for tips on the test itself, I would say the best thing to do is to portion your time accordingly. Most important of all though is to set variables. The best way to do this is to look ahead in the doc they give you, to make sure of anything you have to change. All in all, it was a positive test-taking experience, and taught me a lot about how sometimes working smarter is much better than working harder. 
+
 Certification Image: 
 
 ![name](https://github.com/aweder05/Intermediate-CAD/blob/main/Screenshot%202023-05-08%20153122.png?raw=true) 

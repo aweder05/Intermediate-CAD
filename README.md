@@ -119,3 +119,11 @@ https://cvilleschools.onshape.com/documents/e58ce2a782ee529329f57404/w/6af0f5091
 So far this year, this was definitely the most challenging of the CAD assignments. The reason for this is that it a. introduced new methods and tools to create parts, b. asked me to change dimensions without the use of a configuration table, and c. was not as clear as the last asignment in the diagrams. Still, I managed to complete the assignment with the help of some new tools, the most useful of which being the boolean tool, which enabled me to subtract elements of one part from another, to create a perfect fit between both parts. 
 
 ---
+
+## Onshape Certification 
+
+Certification Link: [link](https://ti-user-certificates.s3.amazonaws.com/6e557ed6-d03d-4c48-9492-4d18d145d7a1/b404585c-9eaa-4f20-b7cd-92749c713cda-anton-weder-e85d9059-040c-468d-81ac-24aebe46a4a6-certificate.pdf)
+
+Certification Image: 
+ 
+ 

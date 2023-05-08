@@ -126,5 +126,4 @@ Certification Link: [link](https://ti-user-certificates.s3.amazonaws.com/6e557ed
 
 Certification Image: 
 
-
- 
+![name](https://github.com/aweder05/Intermediate-CAD/blob/main/Screenshot%202023-05-08%20153122.png?raw=true) 
